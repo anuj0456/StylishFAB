@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'mapin.ai.stylishfab'
+    namespace 'mapin.ai.fab'
     compileSdk 33
 
     defaultConfig {

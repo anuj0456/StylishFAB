@@ -9,7 +9,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36398cee-7beb-49be-a7c5-7bb8dc78b2a7" name="Changes" comment="" />
+    <list default="true" id="36398cee-7beb-49be-a7c5-7bb8dc78b2a7" name="Changes" comment="floating action menu made movable">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,9 +27,35 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
-            <expand />
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Stylish FAB" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Stylish FAB" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Stylish FAB" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Stylish FAB" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
             <select />
           </tree_state>
         </projects_view>
@@ -60,7 +89,10 @@
     "android-custom-view/Users/blackjack/Documents/android/StylishFAB/app/src/main/java/mapin/ai/stylishfab/FloatingActionMenu.java_SELECTED": "FloatingActionMenu",
     "android-custom-view/Users/blackjack/Documents/android/StylishFAB/app/src/main/java/mapin/ai/stylishfab/Label.java_SELECTED": "Label",
     "android-custom-view/Users/blackjack/Documents/android/StylishFAB/app/src/main/java/mapin/ai/stylishfab/StylishFAB.java_SELECTED": "StylishFAB",
+    "android-custom-view/Users/blackjack/Documents/android/fab/app/src/main/java/mapin/ai/stylishfab/FloatingActionMenu.java_SELECTED": "FloatingActionMenu",
+    "android-custom-view/Users/blackjack/Documents/android/fab/app/src/main/java/mapin/ai/stylishfab/StylishFAB.java_SELECTED": "StylishFAB",
     "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/Users/blackjack/Documents/android/fab",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
@@ -140,6 +172,14 @@
       <option name="presentableId" value="Default" />
       <updated>1686678368833</updated>
     </task>
+    <task id="LOCAL-00001" summary="floating action menu made movable">
+      <created>1686758564742</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686758564742</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,5 +192,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="floating action menu made movable" />
+    <option name="LAST_COMMIT_MESSAGE" value="floating action menu made movable" />
   </component>
 </project>

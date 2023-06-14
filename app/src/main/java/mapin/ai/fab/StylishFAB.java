@@ -1,4 +1,4 @@
-package mapin.ai.stylishfab;
+package mapin.ai.fab;
 
 import android.content.Context;
 import android.util.AttributeSet;

@@ -1,4 +1,4 @@
-package mapin.ai.stylishfab;
+package mapin.ai.fab;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -34,7 +34,6 @@ import android.view.ViewGroup;
 import android.view.ViewOutlineProvider;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
-import android.widget.ImageButton;
 import android.widget.TextView;
 
 public class FloatingActionButton extends androidx.appcompat.widget.AppCompatImageButton {
